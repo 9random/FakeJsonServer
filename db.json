@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "L5",
+      "company":"Google",
+    }
+  ],
+  "profile": {
+    "name": "Rahul Sharma"
+  }
+}
